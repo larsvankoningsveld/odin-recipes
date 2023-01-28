@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+h1 {
+    font-size: 64px;
+    color: #FE7F2D;
+}
+
+h2 {
+    font-size: xx-large;
+    color: #619B8A;
+}
+
+h3 {
+    font-size: x-large;
+    color: #A1C181;
+}
+
+p {
+    color: #233D4D;
+}
+
+a {
+    color: #233D4D;
+    font-weight: 800;
+    font-size: x-large;
+}
